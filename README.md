@@ -3,7 +3,7 @@
 # 前言
 本项目是由`arttnba3`在ctf-wiki上 https://ctf-wiki.org/pwn/linux/kernel-mode/exploitation/introduction/ 大佬的三个脚本所二次开发而来，主要用于ctf比赛的内核pwn
 
-`remort.py`目前还在施工，敬请期待，`kernelpwn.h`功能已经能用了
+配套教程：https://www.cnblogs.com/resea/p/18971999
 
 # 文件构成
 本项目仅包含2个文件，均可单独使用
